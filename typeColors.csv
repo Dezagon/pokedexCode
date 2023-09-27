@@ -1,0 +1,19 @@
+id,Type,Hex Code
+1,Grass,#78C850
+2,Fire,#F08030
+3,Water,#6890F0
+4,Bug,#A8B820
+5,Normal,#A8A878
+6,Electric,#F8D030
+7,Fighting,#C03028
+8,Dark,#705848
+9,Dragon,#7038F8
+10,Fairy,#EE99AC
+11,Flying,#A890F0
+12,Ghost,#705898
+13,Ice,#98D8D8
+14,Ground,#E0C068
+15,Poison,#A040A0
+16,Psychic,#F85888
+17,Rock,#B8A038
+18,Steel,#B8B8D0
